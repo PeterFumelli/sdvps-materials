@@ -7,7 +7,16 @@
 ![alt text](https://github.com/PeterFumelli/sdvps-materials/blob/main/img/Console_output_1.png)
 ![alt text](https://github.com/PeterFumelli/sdvps-materials/blob/main/img/Console_output_2.png)
 
+
 ### Задание 2
+
+![alt text]
+![alt text]
+
+### Задание 3
 
 ![alt text](https://github.com/PeterFumelli/sdvps-materials/blob/main/img/pipeline.png)
 ![alt text](https://github.com/PeterFumelli/sdvps-materials/blob/main/img/Console_output_3.png)
+
+
+### Задание 4
