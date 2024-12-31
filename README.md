@@ -22,3 +22,7 @@
 
 
 ### Задание 4
+
+![alt text](https://github.com/PeterFumelli/sdvps-materials/blob/main/img/pipeline_version.png)
+![alt text](https://github.com/PeterFumelli/sdvps-materials/blob/main/img/nexus_go_app.png)
+
